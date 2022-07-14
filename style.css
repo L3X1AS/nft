@@ -115,7 +115,6 @@ body {
     width: 10%;
     margin-bottom: 27px;
     margin-left: 20px;
-    border-radius: 25px var(--color-white);
     border: 2px solid white;
     border-radius: 50%;
 }
